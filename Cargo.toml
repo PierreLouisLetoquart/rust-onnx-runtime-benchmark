@@ -1,0 +1,2 @@
+[workspace]
+members = ["tract_benchmark", "ort_benchmark"]
